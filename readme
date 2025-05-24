@@ -1,0 +1,25 @@
+# Motostore
+
+Motostore es una tienda en línea ficticia dedicada a la venta de motocicletas y accesorios. Este proyecto es parte del curso de CSS Avanzado de Desafío Latam.
+
+## Estructura del Proyecto
+
+- **index.html**: Página principal de la tienda, donde se muestran los productos destacados, información de contacto y enlaces a redes sociales.
+- **styles.css**: Archivo de estilos que define la apariencia visual del sitio, incluyendo el diseño responsivo, tipografías, colores y animaciones.
+
+## Características
+
+- Catálogo de motocicletas con imágenes y descripciones.
+- Diseño responsivo para dispositivos móviles y de escritorio.
+- Uso de CSS avanzado: Flexbox, Grid, transiciones,media queries y pseudo-clases.
+
+## Instalación
+
+1. Clona este repositorio o descarga los archivos.
+2. Abre `index.html` en tu navegador preferido.
+
+## Créditos
+
+Desarrollado como parte del curso CSS Avanzado - Desafío Latam.
+
+---
